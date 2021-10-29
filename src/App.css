@@ -53,6 +53,11 @@
   color: black;
 }
 
+.fa-compress:hover, .fa-arrows-alt:hover {
+  color: blue;
+  cursor: pointer;
+}
+
 #preview {
   padding: 0 1rem;
 }
